@@ -1,6 +1,6 @@
 # Wangchuk Namgay - Geospatial Analyst & Glaciologist
 
-![Banner Image](https://www.linkedin.com/in/wangchuk-spatial-voyage444/) <!-- Add a link to a banner image if you have one -->
+![Banner Image](https://media.licdn.com/dms/image/D5603AQFg7Ag43lBdCA/profile-displayphoto-shrink_800_800/0/1691927471979?e=1701907200&v=beta&t=9yqj_ECeQ5OE3G4t47s4J2kLgUQLarkD8cXo2GsqY2c) <!-- Add a link to a banner image if you have one -->
 
 ## About Me :wave:
 Hello! I’m Wangchuk, a Geospatial Analyst with over 6 years of experience, currently navigating through the icy and intriguing terrains of glaciers in Bhutan. With a deep interest in glacier dynamism and spatial data, I've been utilizing Geographic Information Systems (GIS) as a canvas to paint a vivid picture of moving glaciers and complex landscapes.
@@ -37,7 +37,7 @@ Hello! I’m Wangchuk, a Geospatial Analyst with over 6 years of experience, cur
 - Cartography
 
 ## :link: Connect with Me
-- [LinkedIn](your-linkedin-profile-link)
+- [LinkedIn]((https://www.linkedin.com/in/wangchuk-spatial-voyage444/))
 - :email: wnamgay444@gmail.com
 
 ## :file_folder: Repositories
